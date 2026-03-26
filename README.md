@@ -1,4 +1,3 @@
-Project Flow
 A simple task management dashboard built with HTML, Tailwind CSS, and vanilla JavaScript.
 
 Features
