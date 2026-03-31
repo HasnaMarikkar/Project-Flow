@@ -1,4 +1,4 @@
-A simple task management dashboard built with HTML, Tailwind CSS, and vanilla JavaScript.
+A simple task management dashboard built with HTML, CSS, Tailwind CSS, and vanilla JavaScript.
 
 Features
 1. Add, delete, and update tasks
